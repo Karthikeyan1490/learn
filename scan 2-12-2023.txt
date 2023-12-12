@@ -1,0 +1,10 @@
+;================ Start of Scanner Results ==================
+
+;------------------- Summary -------------------
+;Files Found             : 196317
+;Files Scanned           : 195797
+;Files Infected          : None
+;Partition Table Scanned : None
+;Boot Sectors Scanned    : None
+;Issues to be fixed      : None
+;================ End of Scanner Results ==================
